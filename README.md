@@ -1,10 +1,7 @@
 ﻿# Criatividade-com-Projetos-extras-Python
 
----
-
-
-```markdown
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Projetos%20Extras%20Python&fontSize=35&fontColor=fff&animation=fadeIn)
+
 # 🧠 Projetos Extras Python
 
 Bem-vindo(a) ao repositório **Projetos Extras Python**! 💻✨  
@@ -51,4 +48,5 @@ Se quiser testar algum projeto localmente:
 ```bash
 git clone https://github.com/deborahmelo-0128/Projetos-Extras-Python.git
 cd "Projetos-Extras-Python"
+
 
